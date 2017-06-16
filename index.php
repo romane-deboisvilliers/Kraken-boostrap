@@ -213,7 +213,9 @@
            <button type="submit" class="btn btn-danger">SUBMIT</button>
          </form>
          <div>
-           
+           <h3>CONTACT US</h3>
+           <p>Tel : 0262 01 23 14</p>
+           <p>Email : toto@hotmail.fr</p>
          </div> 
 
         </div>
