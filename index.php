@@ -213,9 +213,7 @@
            <button type="submit" class="btn btn-danger">SUBMIT</button>
          </form>
          <div>
-           <h3>CONTACT US</h3>
-           <p>Tel: xxxxxxxxxxxxx</p>
-           <p>Email: xxxx@xxxxx.com</p>
+           
          </div> 
 
         </div>
@@ -231,3 +229,4 @@
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
+
