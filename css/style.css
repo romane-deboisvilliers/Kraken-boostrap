@@ -1,0 +1,100 @@
+html {
+
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbarPerso {
+  border: none;
+  border-top: 10px solid #222;
+  border-radius: 0px;
+  padding-top: 25px;
+}
+.navbar-toggle {
+  background: #D54346;
+}
+.navbar-toggle .icon-bar {
+  background: #fff;
+}
+.navbar-form {
+  margin: auto;
+}
+.menu {
+  margin-top: 70px;
+  border-top: 1px solid #dedede;
+}
+.menu > .navbar-nav > li {
+    border-right: 1px solid #dedede;
+}
+.menuSocial {
+  margin: auto;
+}
+
+.blocDiapo {
+  padding: 0px;
+}
+.diapo {
+  background: url('../img/bg.jpg') center fixed;
+  height: 600px;
+  background-size: cover;
+}
+.legendeDiapo {
+  background: #222;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+.point {
+  text-align: center;
+}
+.point > ul {
+  padding: 0;
+}
+.pointAlign {
+  list-style: none;
+  text-align: center;
+  display: inline-block;
+}
+
+.blocPresent {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.blocPresent > small {
+  font-size: 1.4em;
+  color: #777;
+}
+.blocPresent > .row {
+  margin-top: 40px;
+}
+
+.separation {
+  background: #c2c2c2;
+  height: 2px;
+  width: 70%;
+}
+
+.blocProject {
+  text-align: center;
+}
+.blocProject > .col-sm-6 > p {
+  text-align: right;
+}
+.blocProject > .col-sm-6 > h2 {
+  color: #D54346;
+  font-size: 3.5em;
+  text-align: right;
+}
+
+footer {
+  background: #D9534F;
+  border-top: 10px solid #D43F3A;
+  color: #fff;
+}
+footer > .row {
+  width: 80%;
+  margin: auto;
+} 
